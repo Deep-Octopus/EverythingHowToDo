@@ -17,6 +17,8 @@ Documents are categorized by **application scenarios**:
 | `Workflow/` | Process specifications (e.g., work procedures, collaboration rules) |
 | `Daily/`    | Daily scenario guides (e.g., household appliances, daily tools) |
 | `Template/` | Standard templates for creating new documents (see `Template.md`) |
+| `Study/`    | Study-related guidelines                                     |
+| `Exam/`     | Exam-related guidelines                                      |
 
 ## 📝 Document Specification
 
