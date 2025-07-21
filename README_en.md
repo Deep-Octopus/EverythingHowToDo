@@ -8,7 +8,7 @@ This repository is designed to systematically manage personal "instructional doc
 
 ## 📂 Repository Structure
 
-Documents are categorized by **application scenarios** (adjustable based on actual content):
+Documents are categorized by **application scenarios**:
 
 | Category    | Description                                                  |
 | ----------- | ------------------------------------------------------------ |
@@ -28,7 +28,7 @@ To ensure readability and consistency, all documents in this repository follow t
     - English: `[Object]_[Operation]_[Type].md` (e.g., `Printer_Connection_Guide.md`)
 2. **Format Requirement**
     - Use Markdown syntax (support lists, images, links, code blocks).
-    - For screenshots: Embed with `![Description](image-link)` (drag images to GitHub editor to auto-upload).
+    - For screenshots: Embed with `![Description](image-link)` .
     - Avoid redundant content: Reuse links for repeated concepts (e.g., reference basic guides in advanced documents).
 3. **Version Control**
     Add version number to titles when updating core content (e.g., `Excel_Advanced_Filter_Guide_v2.0.md`).
